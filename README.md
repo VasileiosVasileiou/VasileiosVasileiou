@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VasileiosVasileiou
 - 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Master in Business Annalytics and Data Sciene at University of Macedonia - Greece
+- 🌱 Master in Business Analytics and Data Sciene at University of Macedonia - Greece
 - 💞️ I’m looking to collaborate on Python Code
 - 📫 How to reach me vasiliou.v@gmail.com 
 
